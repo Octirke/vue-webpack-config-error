@@ -1,0 +1,121 @@
+2018-05-28 13:59:06,438 [8070370]   INFO - ellij.project.impl.ProjectImpl - 143 project components initialized in 70 ms 
+2018-05-28 13:59:06,439 [8070371]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-05-28 13:59:06,789 [8070721]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-05-28 13:59:06,806 [8070738]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2018-05-28 13:59:06,891 [8070823]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 1 millis 
+2018-05-28 13:59:06,920 [8070852]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2018-05-28 13:59:06,920 [8070852]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2018-05-28 13:59:06,921 [8070853]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2018-05-28 13:59:06,924 [8070856]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 57ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 13:59:06,934 [8070866]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-28 13:59:06,935 [8070867]   INFO - ry.NodeModulesDirectoryManager - Associate vue-webpack-config-error/node_modules with [file:///Users/tirke/code/vue-webpack-config-error] 
+2018-05-28 13:59:06,939 [8070871]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-28 13:59:06,942 [8070874]   WARN - ry.NodeModulesLibraryDirectory - Concurrent node_modules roots calculation: 2 
+2018-05-28 13:59:06,988 [8070920]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [file:///Users/tirke/code/vue-webpack-config-error/package.json] 
+2018-05-28 13:59:07,042 [8070974]   INFO - tartup.impl.StartupManagerImpl - /Users/tirke/code/vue-webpack-config-error/.idea case-sensitivity: expected=false actual=false 
+2018-05-28 13:59:07,066 [8070998]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2018-05-28 13:59:07,246 [8071178]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 10ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 13:59:07,305 [8071237]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.grunt.GruntService 
+2018-05-28 13:59:07,305 [8071237]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.gulp.GulpService 
+2018-05-28 13:59:07,305 [8071237]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.npm.NpmScriptsService 
+2018-05-28 13:59:07,348 [8071280]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 1000 ms 
+2018-05-28 13:59:07,386 [8071318]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 139ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 13:59:07,387 [8071319]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 959 files to update 
+2018-05-28 13:59:10,939 [8074871]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-05-28 13:59:15,301 [8079233]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 7914ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 13:59:15,303 [8079235]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 2ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 13:59:15,357 [8079289]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 54ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 13:59:15,357 [8079289]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 2 files to update 
+2018-05-28 13:59:15,364 [8079296]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 7ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 13:59:15,398 [8079330]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start create === 
+2018-05-28 13:59:15,597 [8079529]   INFO - j.ide.ui.OptionsTopHitProvider - 152 ms spent to cache options in project 
+2018-05-28 13:59:42,365 [8106297]   INFO - s.webpack.WebPackConfigManager - webpack config evaluation took 1046 ms 
+2018-05-28 14:01:25,851 [8209783]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-28 14:01:25,882 [8209814]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-28 14:01:25,885 [8209817]   INFO - ry.NodeModulesDirectoryManager - Associate vue-webpack-config-error/client/node_modules with [file:///Users/tirke/code/vue-webpack-config-error/client] 
+2018-05-28 14:01:25,889 [8209821]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-28 14:01:25,893 [8209825]   WARN - ry.NodeModulesLibraryDirectory - Concurrent node_modules roots calculation: 2 
+2018-05-28 14:01:25,896 [8209828]   WARN - ry.NodeModulesLibraryDirectory - Concurrent node_modules roots calculation: 3 
+2018-05-28 14:01:25,903 [8209835]   WARN - ry.NodeModulesLibraryDirectory - Concurrent node_modules roots calculation: 4 
+2018-05-28 14:01:25,967 [8209899]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-28 14:01:26,156 [8210088]   WARN - mpl.ModuleDefaultVcsRootPolicy - .idea was not found for base dir [/Users/tirke/code/vue-webpack-config-error] 
+2018-05-28 14:01:26,855 [8210787]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [file:///Users/tirke/code/vue-webpack-config-error/client/package.json] 
+2018-05-28 14:01:37,524 [8221456]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 1921 to update, calculated in 11551ms 
+2018-05-28 14:01:43,415 [8227347]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-05-28 14:01:44,112 [8228044]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-05-28 14:01:45,861 [8229793]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 8336ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 14:01:45,865 [8229797]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 2ms 
+2018-05-28 14:01:45,880 [8229812]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 14ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 14:01:45,942 [8229874]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 62ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-05-28 14:01:54,294 [8238226]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-05-28 14:01:54,294 [8238226]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/tirke/code/vue-webpack-config-error/client] 
+2018-05-28 14:01:54,967 [8238899]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 19 to update, calculated in 0ms 
+2018-05-28 14:01:55,090 [8239022]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 123ms; general responsiveness: ok; EDT responsiveness: ok
+2018-05-28 14:11:27,423 [8811355]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>]
+2018-05-28 14:11:35,644 [8819576]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>]
+2018-05-28 14:11:35,644 [8819576]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/tirke/code/vue-webpack-config-error]
+2018-05-28 14:11:35,959 [8819891]   INFO - .status.GitNewChangesCollector - GitRepository is null for root file:///Users/tirke/code/vue-webpack-config-error
+2018-05-28 14:11:35,973 [8819905]   INFO -                     #GitStatus - bad revision 'HEAD'
+com.intellij.openapi.vcs.VcsException: bad revision 'HEAD'
+	at git4idea.commands.GitCommandResult.getOutputOrThrow(GitCommandResult.java:144)
+	at git4idea.changes.GitChangeUtils.resolveReference(GitChangeUtils.java:191)
+	at git4idea.status.GitNewChangesCollector.getHeadFromGit(GitNewChangesCollector.java:280)
+	at git4idea.status.GitNewChangesCollector.getHead(GitNewChangesCollector.java:272)
+	at git4idea.status.GitNewChangesCollector.parseOutput(GitNewChangesCollector.java:139)
+	at git4idea.status.GitNewChangesCollector.collectChanges(GitNewChangesCollector.java:104)
+	at git4idea.status.GitNewChangesCollector.<init>(GitNewChangesCollector.java:95)
+	at git4idea.status.GitNewChangesCollector.collect(GitNewChangesCollector.java:70)
+	at git4idea.status.GitChangeProvider.getChanges(GitChangeProvider.java:87)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.actualUpdate(ChangeListManagerImpl.java:737)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.iterateScopes(ChangeListManagerImpl.java:650)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.lambda$updateImmediately$9(ChangeListManagerImpl.java:546)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.updateImmediately(ChangeListManagerImpl.java:545)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.lambda$new$0(ChangeListManagerImpl.java:130)
+	at com.intellij.openapi.vcs.changes.UpdateRequestsQueue$MyRunnable.run(UpdateRequestsQueue.java:238)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:228)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.run(BoundedTaskExecutor.java:212)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-05-28 14:11:35,974 [8819906]   INFO - .changes.ChangeListManagerImpl - bad revision 'HEAD'
+com.intellij.openapi.vcs.VcsException: bad revision 'HEAD'
+	at git4idea.commands.GitCommandResult.getOutputOrThrow(GitCommandResult.java:144)
+	at git4idea.changes.GitChangeUtils.resolveReference(GitChangeUtils.java:191)
+	at git4idea.status.GitNewChangesCollector.getHeadFromGit(GitNewChangesCollector.java:280)
+	at git4idea.status.GitNewChangesCollector.getHead(GitNewChangesCollector.java:272)
+	at git4idea.status.GitNewChangesCollector.parseOutput(GitNewChangesCollector.java:139)
+	at git4idea.status.GitNewChangesCollector.collectChanges(GitNewChangesCollector.java:104)
+	at git4idea.status.GitNewChangesCollector.<init>(GitNewChangesCollector.java:95)
+	at git4idea.status.GitNewChangesCollector.collect(GitNewChangesCollector.java:70)
+	at git4idea.status.GitChangeProvider.getChanges(GitChangeProvider.java:87)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.actualUpdate(ChangeListManagerImpl.java:737)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.iterateScopes(ChangeListManagerImpl.java:650)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.lambda$updateImmediately$9(ChangeListManagerImpl.java:546)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.updateImmediately(ChangeListManagerImpl.java:545)
+	at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.lambda$new$0(ChangeListManagerImpl.java:130)
+	at com.intellij.openapi.vcs.changes.UpdateRequestsQueue$MyRunnable.run(UpdateRequestsQueue.java:238)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:228)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.run(BoundedTaskExecutor.java:212)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-05-28 14:11:37,812 [8821744]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/tirke/code/vue-webpack-config-error
+2018-05-28 14:11:37,813 [8821745]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/tirke/code/vue-webpack-config-error
+2018-05-28 14:11:37,814 [8821746]   INFO -   #git4idea.log.GitLogProvider - Fresh repository: file:///Users/tirke/code/vue-webpack-config-error
+2018-05-28 14:12:00,264 [8844196]   INFO - s.webpack.WebPackConfigManager - webpack config evaluation took 1013 ms
+2018-05-28 14:12:00,264 [8844196]   INFO - s.webpack.WebPackConfigManager - webpack config evaluation took 998 ms
+2018-05-28 14:15:37,812 [9061744]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:
